@@ -1,0 +1,14 @@
+body {
+  background-color: lavender;
+}
+
+#exportPDF {
+  background-color: rgba(133, 153, 151, 0.637);
+  padding: 8px;
+  margin: 2px;
+}
+#exportPowerpoint {
+  background-color: rgba(133, 153, 151, 0.637);
+  padding: 8px;
+  margin: 2px;
+}
